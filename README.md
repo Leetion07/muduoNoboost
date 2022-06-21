@@ -40,7 +40,7 @@
 ### 2.安装方法
 
 ```shell
-./autoinstall.sh
+./autobuild.sh
 ```
 
 ### 3.Echo服务器
